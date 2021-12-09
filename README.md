@@ -20,6 +20,12 @@ Install MacTeX via [Homebrew](https://brew.sh) or download it from [https://www.
 
 * `brew install mactex` or `brew install mactex-no-gui` and restart the terminal
 
+### Local Setup (MS Windows)
+
+MiKTeX is a full LaTeX distribution for Windows.
+[Download it from miktex.org](https://miktex.org/download) and follow the [instructions](https://miktex.org/howto/install-miktex) to install it properly.
+Install the LaTeX editor of your choice.
+
 ## Structure
 
 This template was designed so that you can focus on content and not on
